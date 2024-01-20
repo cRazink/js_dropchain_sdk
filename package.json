@@ -1,0 +1,29 @@
+{
+  "name": "dropchain-sdk",
+  "version": "1.0.1",
+  "description": "Build robust web3 applications seamlessly using Python with existing frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cRazink/js_dropchain_sdk.git"
+  },
+  "keywords": [
+    "blockchain",
+    "web3",
+    "crypto",
+    "nfts",
+    "tokens"
+  ],
+  "author": "Carter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cRazink/js_dropchain_sdk/issues"
+  },
+  "homepage": "https://github.com/cRazink/js_dropchain_sdk#readme",
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
